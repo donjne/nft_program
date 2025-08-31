@@ -53,7 +53,7 @@ security_txt! {
     acknowledgements: "Superteam Earn & Codigo"
 }
 
-declare_id!("BnL1Nvh8REKTxAvYtPSnZ6ivqGR8iGVgQbsgY92wubJw");
+declare_id!("qYcgLKmGgHrREQcgFqVS7WqK35rh3kCXS6mG9T4SMjK");
 
 #[program]
 pub mod nft_program {
